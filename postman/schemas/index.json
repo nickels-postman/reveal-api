@@ -319,6 +319,7 @@
 		},
 		"/api/v2/rest/{path}": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -338,6 +339,7 @@
 				}
 			},
 			"head": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -357,6 +359,7 @@
 				}
 			},
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -376,6 +379,7 @@
 				}
 			},
 			"put": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -395,6 +399,7 @@
 				}
 			},
 			"delete": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -414,6 +419,7 @@
 				}
 			},
 			"patch": {
+				"summary": "temp summary",
 				"tags": [
 					"brainspace"
 				],
@@ -2268,6 +2274,7 @@
 		},
 		"/api/v2/{caseId}/folders/assignment/id/{id}": {
 			"delete": {
+				"summary": "temp summary",
 				"tags": [
 					"folders/assignment"
 				],
@@ -2297,6 +2304,7 @@
 		},
 		"/api/v2/{caseId}/folders/assignment": {
 			"delete": {
+				"summary": "temp summary",
 				"tags": [
 					"folders/assignment"
 				],
@@ -3125,6 +3133,7 @@
 		},
 		"/api/v2/{caseId}/folders/savedSearch/all/{folderId}": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"folders/savedSearch"
 				],
@@ -4265,6 +4274,7 @@
 		},
 		"/api/v2/{caseId}/groups": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"groups"
 				],
@@ -5708,6 +5718,7 @@
 		},
 		"/api/v2/{caseId}/jobs/imagelabel": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/imagelabel"
 				],
@@ -6303,6 +6314,7 @@
 		},
 		"/api/v2/{caseId}/jobs/transcript": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/transcript"
 				],
@@ -6531,6 +6543,7 @@
 		},
 		"/api/v2/{caseId}/jobs/upload/client-configuration": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/upload"
 				],
@@ -6559,6 +6572,7 @@
 		},
 		"/api/v2/{caseId}/jobs/upload": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/upload"
 				],
@@ -6601,6 +6615,7 @@
 		},
 		"/api/v2/{caseId}/jobs/upload/{id}": {
 			"put": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/upload"
 				],
@@ -6643,6 +6658,7 @@
 		},
 		"/api/v2/upload-signature": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"jobs/upload"
 				],
@@ -6682,6 +6698,7 @@
 		},
 		"/api/v2/login": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"login"
 				],
@@ -7165,6 +7182,7 @@
 		},
 		"/api/v2/revealai/{path}": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7184,6 +7202,7 @@
 				}
 			},
 			"head": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7203,6 +7222,7 @@
 				}
 			},
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7235,6 +7255,7 @@
 				}
 			},
 			"put": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7267,6 +7288,7 @@
 				}
 			},
 			"delete": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7299,6 +7321,7 @@
 				}
 			},
 			"patch": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7333,6 +7356,7 @@
 		},
 		"/api/v2/revealai/form/{path}": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"revealai"
 				],
@@ -7362,6 +7386,7 @@
 		},
 		"/api/v2/{caseId}/search": {
 			"post": {
+				"summary": "temp summary",
 				"tags": [
 					"search"
 				],
@@ -7827,6 +7852,7 @@
 		},
 		"/api/v2/session/install/oidc": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"session"
 				],
@@ -7877,6 +7903,7 @@
 		},
 		"/api/v2/{caseId}/tagPanes": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"tagPanes"
 				],
@@ -7908,6 +7935,7 @@
 		},
 		"/api/v2/{caseId}/tagProfiles/{profileId}/panes": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"tagPanes"
 				],
@@ -7966,6 +7994,7 @@
 		},
 		"/api/v2/{caseId}/tagProfiles/{profileId}/panes/{id}": {
 			"get": {
+				"summary": "temp summary",
 				"tags": [
 					"tagPanes"
 				],
