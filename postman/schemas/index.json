@@ -11,7 +11,7 @@
 			"name": "Copyright © Reveal Data 2023",
 			"url": "https://www.revealdata.com/"
 		},
-		"version": "2" 
+		"version": "2"
 	},
 	"basePath": "/rest",
 	"paths": {
