@@ -9,7 +9,6 @@ id = 359cfb3b-74f1-4d9b-989a-9764ef7822c1
 
 [config.relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"25998796-fdc560bb-47eb-4c33-8381-ee6313927339","path":"Reveal APIs - linted.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Example\",\"folderStrategy\":\"Tags\",\"includeAuthInfoInExample\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Example\",\"exampleParametersResolution\":\"Example\"}"}}
 
 [config.relations.collections.metaData]
 
