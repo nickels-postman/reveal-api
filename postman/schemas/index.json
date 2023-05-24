@@ -4,7 +4,8 @@
 		"title": "Reveal API v2",
 		"contact": {
 			"name": "Help and Documentation portal",
-			"url": "https://help.revealdata.com"
+			"url": "https://help.revealdata.com",
+			"email":"test@test.com"
 		},
 		"license": {
 			"name": "Copyright © Reveal Data 2023",
@@ -9710,6 +9711,7 @@
 		},
 		"/api/v2/version/CurrentReviewHash": {
 			"get": {
+				"summary": "sample summary",
 				"tags": [
 					"version"
 				],
@@ -10003,6 +10005,15 @@
 			}
 		}
 	},
+	"consumes": [
+        "application/json-patch+json",
+        "application/json",
+        "text/json",
+        "application/*+json"
+    ],
+    "produces": [
+        "application/json"
+    ],
 	"definitions": {
 		"AIModel": {
 			"type": "object",
